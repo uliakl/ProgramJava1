@@ -25,7 +25,5 @@ public class Main {
             System.out.println("Круг впишется в квадрат");
         else
             System.out.println("Квадрат впишется в круг");
-
-
     }
 }
